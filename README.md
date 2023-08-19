@@ -1,11 +1,11 @@
-# CompEng
+# [CompEng](https://github.com/ckc-dev/PI-1Phone)
 
 This is a collection for (most of the relevant) projects made for my major in computer engineering.
 
 Project branches are organized using the following naming convention:
 
 ```
-semester-subject-projectname
+semester-subject-project_name
 ```
 
 Feel free to explore the individual branches for detailed project information, licensing, contribution instructions and source code.
