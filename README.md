@@ -5,27 +5,40 @@ This is a collection for (most of the relevant) projects made for my major in co
 Project branches are organized using the following naming convention:
 
 ```
-semester-subject-project-name
+semester-subject-projectname
 ```
+
+Feel free to explore the individual branches for detailed project information, licensing, contribution instructions and source code.
 
 ## Projects
 
-### 1st semester
+### 1st Semester
+- N/A
 
-### 2nd semester
+### 2nd Semester
+- [Integrative Project: 1Phone](../../tree/s2-integrative_project-1phone)
 
-### 3rd semester
+### 3rd Semester
+- N/A
 
-### 4th semester
+### 4th Semester
+- N/A
 
-### 5th semester
+### 5th Semester
+- [Integrative Project: Unwaste](../../tree/s5-integrative_project-unwaste)
+- [Requirements Engineering: Levanta Requisitos](../../tree/s5-requirements_engineering-levanta_requisitos)
 
-### 6th semester
+### 6th Semester
+- N/A
 
-### 7th semester
+### 7th Semester
+- [Databases: Sales](../../tree/s7-databases-sales)
 
-### 8th semester
+### 8th Semester
+- N/A
 
-### 9th semester
+### 9th Semester
+- N/A
 
-### 10th semester
+### 10th Semester
+- N/A
