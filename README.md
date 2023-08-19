@@ -25,8 +25,8 @@ Feel free to explore the individual branches for detailed project information, l
 - N/A
 
 ### 5th Semester
-- [Integrative Project: Unwaste](../../tree/s5-integrative_project-unwaste)
-- [Requirements Engineering: Levanta Requisitos](../../tree/s5-requirements_engineering-levanta_requisitos)
+- [Integrative Project: UnWaste](../../tree/s5-integrative_project-unwaste)
+- [Requirements Engineering: LevantaRequisitos](../../tree/s5-requirements_engineering-levanta_requisitos)
 
 ### 6th Semester
 - N/A
