@@ -5,7 +5,7 @@ This is a collection for (most of the relevant) projects made for my major in co
 Project branches are organized using the following naming convention:
 
 ```
-semester-subject-project_name
+semester-subject_name-project_name
 ```
 
 Feel free to explore the individual branches for detailed project information, licensing, contribution instructions and source code.
