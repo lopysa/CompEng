@@ -42,3 +42,13 @@ Feel free to explore the individual branches for detailed project information, l
 
 ### 10th Semester
 - [Undergraduate Thesis: Thesis](../../tree/s10-undergraduate_thesis-thesis)
+
+# Contributing
+
+Pull requests are welcome.
+
+Please open an issue to discuss what you'd like to change before making major changes.
+
+Please make sure to update and/or add appropriate tests when applicable.
+
+This project is licensed under the [GPL-3.0 License](./LICENSE).
