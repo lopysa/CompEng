@@ -41,4 +41,4 @@ Feel free to explore the individual branches for detailed project information, l
 - N/A
 
 ### 10th Semester
-- N/A
+- [Undergraduate Thesis: Thesis](../../tree/s10-undergraduate_thesis-thesis)
