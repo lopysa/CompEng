@@ -35,7 +35,7 @@ Feel free to explore the individual branches for detailed project information, l
 - [Databases: Sales](../../tree/s7-databases-sales)
 
 ### 8th Semester
-- N/A
+- [Mobile Development: Matrix Multiplication](../../tree/s8-mobile_development-matrix_multiplication)
 
 ### 9th Semester
 - N/A
